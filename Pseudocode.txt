@@ -1,0 +1,9 @@
+Pseudocode
+Alien Invaders
+
+- Create Alien Images
+- Create Player Fighter
+- Make Aliens move
+- Make Fighter move
+- Be able to use weapon
+- Create hit boxes??
