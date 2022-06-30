@@ -1,9 +1,8 @@
 Pseudocode
-Alien Invaders
+Tic-tac-toe
 
-- Create Alien Images
-- Create Player Fighter
-- Make Aliens move
-- Make Fighter move
-- Be able to use weapon
-- Create hit boxes??
+1. Create 3x3 grid
+2. Be able to havbe player click on any of the 9 boxes
+3. display either an X or O alternatively
+4. When three are in a row, end the game and draw a line connecting them
+5. Keep score of how many wins either X or O has
